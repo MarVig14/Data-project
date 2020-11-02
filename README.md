@@ -1,3 +1,2 @@
-# ML-projects
-kaggle competitions, iris,
-personal projects
+# Data Analysis project
+word frequency count, soil analysis

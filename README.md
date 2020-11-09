@@ -1,4 +1,4 @@
-# Data science / Data analysis Projects
+# Data science / Data analysis projects
 
 ### Word Frequency Count Project  
 **This project analyzes customer satisfaction by counting word frequency of received feedbacks.**

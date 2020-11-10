@@ -10,4 +10,4 @@ We found out, that customers were satisfied with **prices**, but were not satisf
 **Resource:**   
 https://programminghistorian.org/en/lessons/counting-frequencies
 
-**You can find word frequency project in folder development/word_count_project
+**You can find word frequency project in folder development/word_count_project**

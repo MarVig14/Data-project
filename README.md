@@ -1,6 +1,7 @@
 # Projects
-* **folder development/word_count_project**
+
 ### Word Frequency Count Project  
+* **folder development/word_count_project**   
 
 **This project analyzes customer satisfaction by counting word frequency of received feedbacks.**
 
@@ -11,4 +12,4 @@ We found out, that customers were satisfied with **prices**, but were not satisf
 **Resource:**   
 https://programminghistorian.org/en/lessons/counting-frequencies
 
-* **You can find word frequency project in folder development/word_count_project**
+

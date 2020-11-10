@@ -1,7 +1,6 @@
 # Projects
-
-### Word Frequency Count Project  
-* **folder development/word_count_project**   
+* folder development/word_count_project  
+### Word Frequency Count Project     
 
 **This project analyzes customer satisfaction by counting word frequency of received feedbacks.**
 

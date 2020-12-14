@@ -16,7 +16,7 @@ https://programminghistorian.org/en/lessons/counting-frequencies
 ### Soil Analysis Project
 * development/Soil_analysis
 
-** Project analyzes soil data retrieved from sensors.**
+**Project analyzes soil data retrieved from sensors.**
 
 We conducted 2 different experiments on 3 sensors. In the first experiment, we measured soil continuosly, but in second we heated soil in oven for 90 minutes and then measured for another 90 minutes. Our main goal is to compare data and see, which sensor is most reliable for measurements. 
 

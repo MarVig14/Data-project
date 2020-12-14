@@ -20,6 +20,6 @@ https://programminghistorian.org/en/lessons/counting-frequencies
 
 We conducted 2 different experiments on 3 sensors. In the first experiment, we measured soil continuosly, but in second we heated soil in oven for 90 minutes and then measured for another 90 minutes. Our main goal is to compare data and see, which sensor is most reliable for measurements. 
 
-By comparison of moisture, we observed that values of sensor003 decreases over time, but in the second experiment with heated soil, moisture values increased. This could be due to changing position of coil in soil or wrongly decoded data.
+By comparison of moisture, we observed that values of sensor003 are decreasing over time, but in the second experiment with heated soil, moisture values increased. This could be due to changing position of coil in soil or wrongly decoded data.
 
-We analyzed correlation between soil temprature and moisture and we found weak correlation. 
+We found weak correlation between soil temperature and moisture. Soil temperature values slightly increased after heating, but actual ones increased much more.

@@ -18,7 +18,7 @@ https://programminghistorian.org/en/lessons/counting-frequencies
 
 **Project analyzes soil data retrieved from sensors.**
 
-We conducted 2 different experiments on 3 sensors. In the first experiment, we measured soil continuosly, but in second we heated soil in oven for 90 minutes and then measured for another 90 minutes. Our main goal is to compare data and see, which sensor is most reliable for measurements. 
+We conducted 2 different experiments on 3 sensors. In the first experiment, we measured soil continuosly, but in second we heated soil in oven for _90 minutes_ and then measured for another _90 minutes._ Our main goal is to compare data and see, which sensor is most reliable for measurements. 
 
 By comparison of moisture, we observed that values of **sensor003** are decreasing over time, but in the second experiment with heated soil, moisture values increased. This could be due to changing position of coil in soil or wrongly decoded data.
 

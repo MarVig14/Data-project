@@ -13,7 +13,7 @@ https://programminghistorian.org/en/lessons/counting-frequencies
 
 ---
 
-### Soil analysis project
+### Soil Analysis Project
 * development/Soil_analysis
 
 ** Project analyzes soil data retrieved from sensors.**

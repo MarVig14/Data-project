@@ -1,4 +1,3 @@
-# Projects
 ### Word Frequency Count Project     
 * development/word_count_project  
 
